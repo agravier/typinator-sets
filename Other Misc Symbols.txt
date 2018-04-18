@@ -9,5 +9,3 @@
 :doubledagger	‡
 :prescription	℞
 :servicemark	℠
-:multiply	×
-:divide	÷

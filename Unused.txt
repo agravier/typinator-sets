@@ -1,1 +1,1 @@
-:watch	⌚	watch = busy symbol
+:watch	⌚
